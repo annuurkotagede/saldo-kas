@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" aria-label="Ikon kas">
+  <rect x="6" y="24" width="108" height="66" rx="10" fill="#1D4B3E" stroke="#C6A15B" stroke-width="2"/>
+  <path d="M6 40 L114 40" stroke="#C6A15B" stroke-width="2" opacity="0.5"/>
+  <circle cx="90" cy="62" r="14" fill="#C6A15B"/>
+  <circle cx="90" cy="62" r="8" fill="#123128"/>
+  <path d="M14 24 L40 6 L78 6 L96 24 Z" fill="#2E6353" stroke="#C6A15B" stroke-width="2"/>
+</svg>
